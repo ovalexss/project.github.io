@@ -1,0 +1,29 @@
+@media (max-width: 1024px){
+    .four__block__second{
+        font-size: 18px;
+    }
+
+    .first__h1text{
+        font-size: 55px;
+    }
+
+    .four__block__second{
+        width: 500px;
+    }
+}
+
+@media (max-width: 768px){
+    .offer__p{
+        width: 300px;
+    }
+}
+
+@media (max-width: 376px){
+    .third{
+        flex-direction: column;
+    }
+
+    .block1_2{
+        left: 0px;
+    }
+}
